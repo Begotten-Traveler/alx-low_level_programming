@@ -1,0 +1,18 @@
+#include "main.h"
+/**
+ * _abs - Computes the absolute value
+ * of an integer.
+ * @i: input nunber as an integer.
+ * Return: absolute value
+ */
+int _abs(int)
+{
+	if (i >= 0)
+	{
+		return (i);
+	}
+	else
+	{
+		return (i * -1);
+	}
+}
