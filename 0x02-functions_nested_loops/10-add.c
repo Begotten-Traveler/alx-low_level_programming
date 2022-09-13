@@ -2,7 +2,7 @@
 #include "main.h"
 /**
  * main - check the code
- * add -Adds two integers and returns
+ * add - Adds two integers and returns
  * the applicable result.
  * @a: number one.
  * @b: number two.
