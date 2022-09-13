@@ -1,9 +1,9 @@
 #include <stdio.h>
 #include "main.h"
 /**
- * main - check the code
- * add - Adds two integers and returns
- * the applicable result.
+ * add - Add two integers and returns
+ * the result.
+ *
  * @a: number one.
  * @b: number two.
  * Return: Add of number one and number two
